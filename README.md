@@ -37,7 +37,7 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/henriquecampaner/spotify-clone && cd spotify-clone
+$ git clone https://github.com/davidli108/spotify-clone-nextjs.git && cd spotify-clone-nextjs
 ```
 
 **Follow the steps below**
@@ -61,7 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 .
-
-<p align="center">
-  Made with 💜&nbsp; by <a href="https://www.linkedin.com/in/henrique-campaner/">Henrique Campaner</a>
-</p>
